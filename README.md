@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate to develop my skills
 - 📫 How to reach me - Linkedin: https://www.linkedin.com/in/jayparmar10/
+- 📨 EMAIL: jaymarketer (AT) gmail.com
 
 <!---
 Jaycoda/Jaycoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
